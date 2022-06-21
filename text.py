@@ -54,4 +54,4 @@ print("Hello World")
 
 
 
-# gandu chirayu
+# chirayu love kushnoor
